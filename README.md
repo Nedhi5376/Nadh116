@@ -1,89 +1,429 @@
-<!-- ===================== TOP BANNER ===================== -->
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=gradient&text=Hi%20I'm%20Nedhi%20Jemal%20(Nedhi_Tech)&fontSize=40&fontColor=ffffff"/> </p>
+<!-- ===================== PREMIUM HEADER ===================== -->
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&width=1200&lines=Software+Developer;4th-year+Software+Engineering+Student;Building+secure+and+scalable+systems;Full+Stack+Developer+(MERN+Stack)&color=FF5733,1ABC9C,F1C40F,9B59B6)
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F4C81,100:38BDF8&text=Nadhii%20Jemal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Software%20Engineering%20Student&descAlignY=55"/>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nadh116&style=flat-square&color=blue)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&color=38BDF8&lines=Full+Stack+Developer;Software+Engineering+Student;Building+Secure+and+Scalable+Applications;MERN+Stack+Developer;Always+Learning+New+Technologies"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/Nadh116">
+<img src="https://img.shields.io/github/followers/Nadh116?label=Followers&style=for-the-badge&color=0F4C81"/>
+</a>
+
+<a href="https://komarev.com/ghpvc/?username=Nadh116">
+<img src="https://komarev.com/ghpvc/?username=Nadh116&style=for-the-badge&color=38BDF8"/>
+</a>
+
+<a href="https://github.com/Nadh116">
+<img src="https://img.shields.io/github/stars/Nadh116?affiliations=OWNER&style=for-the-badge&color=1D4ED8"/>
+</a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+# 👋 Hello, I'm Nadhii Jemal
 
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I am **Nadhii Jemal**, a **4th-year Software Engineering student at Haramaya University** and a **Full Stack Developer**.
+### 💻 Full-Stack Developer
 
-I build **modern, secure, and scalable web applications** using the **MERN stack** and other technologies.
+🎓 **4th-Year Software Engineering Student**
+🏫 **Haramaya University**
 
-I am passionate about:
+I enjoy designing and building **modern, secure, scalable, and high-performance web applications** using the MERN stack and related technologies.
 
-- solving real-world problems using technology  
-- building secure and efficient systems  
-- backend architecture & REST API development  
-- continuous learning and professional growth  
-
-I aim to contribute to impactful national technology solutions and secure digital systems.
+My focus is on writing clean code, creating intuitive user experiences, and developing software that solves real-world problems.
 
 ---
 
-## 🛠 Tech Stack / Skills
+# 💼 Developer Profile
+
+```javascript
+const developer = {
+    name: "Nadhii Jemal",
+    username: "Nadh116",
+    role: "Full Stack Developer",
+
+    education: {
+        university: "Haramaya University",
+        degree: "BSc Software Engineering",
+        year: "4th Year"
+    },
+
+    location: "Ethiopia 🇪🇹",
+
+    frontend: [
+        "React",
+        "HTML",
+        "CSS",
+        "Tailwind CSS",
+        "Bootstrap"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express.js",
+        "PHP"
+    ],
+
+    databases: [
+        "MongoDB",
+        "MySQL"
+    ],
+
+    programming: [
+        "JavaScript",
+        "Java",
+        "Python",
+        "C++"
+    ],
+
+    currentlyLearning: [
+        "System Design",
+        "REST API Security",
+        "Cloud Computing"
+    ],
+
+    availableForWork: true
+};
+```
+
+---
+
+## 🎯 Current Goals
+
+* 🚀 Become a Professional Software Engineer
+* 📚 Master Backend Architecture
+* ☁️ Learn Cloud Technologies
+* 🔐 Build Secure Applications
+* 🌍 Contribute to Open Source Projects
+* 💼 Work on Real-World Software Solutions
+
+---
+
+---
+
+# 🛠️ Tech Stack & Tools
+
+<div align="center">
 
 ### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=javascript,java,python,cpp,php"/>
+
+---
 
 ### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚙️ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
-
-### 🗄 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap"/>
 
 ---
 
-## 🌐 Portfolio Website
+### ⚙️ Backend Development
 
-My personal responsive portfolio showcasing my projects, skills, and development experience.
-
-**Technologies:** React.js, Tailwind CSS
-
-🔗 https://professional-portfolio-theta-khaki.vercel.app/
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
 ---
 
-## 📊 GitHub Stats
+### 🗄️ Databases
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nadh116&show_icons=true&theme=default&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadh116&layout=compact&theme=default)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
 ---
 
-## 📬 Contact & Links
+### 🔧 Tools & Platforms
 
-- GitHub: https://github.com/Nadh116  
-- LinkedIn: https://www.linkedin.com/in/nadhii-jemal-a793ab3b0  
-- Email: nadhijemal503@gmail.com  
-- Portfolio: https://professional-portfolio-theta-khaki.vercel.app/
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
+
+</div>
 
 ---
 
-⭐ **Building secure, scalable, and modern software solutions. Always learning. Always improving.**
+# 🏗️ Full-Stack Development Architecture
+
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                     NADHII TECH • FULL STACK ARCHITECTURE                   │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│                            🌐 CLIENT LAYER                                 │
+│                                                                             │
+│        React.js • HTML5 • CSS3 • Tailwind CSS • Bootstrap                  │
+│                                 │                                           │
+│                                 ▼                                           │
+│                  REST API • JSON • JWT Authentication                       │
+│                                 │                                           │
+│                                 ▼                                           │
+│                           ⚙️ SERVER LAYER                                  │
+│                                                                             │
+│                  Node.js • Express.js • PHP REST APIs                       │
+│                                 │                                           │
+│                                 ▼                                           │
+│                           🗄️ DATABASE LAYER                                │
+│                                                                             │
+│                     MongoDB                 MySQL                           │
+│                                                                             │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  ✅ Secure Authentication      ✅ RESTful APIs                              │
+│  ✅ Scalable Architecture      ✅ Responsive Design                         │
+│  ✅ Clean Code                 ✅ High Performance                          │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🛡️ Cybersecurity Risk Analysis & Reporting System
+
+A professional web-based platform that helps organizations identify, assess, prioritize, and report cybersecurity risks.
+
+### Key Features
+
+* 🔐 Secure User Authentication
+* 📊 Interactive Risk Dashboard
+* ⚠️ Threat & Vulnerability Assessment
+* 📈 Risk Scoring & Analysis
+* 📄 Automated Security Reports
+* 👥 Role-Based Access Control
+* 📋 Audit Logs & Activity Tracking
+* 📉 Charts & Analytics
+
+**Technology Stack**
+
+React • Node.js • Express.js • MongoDB
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎓 School Management System
+
+A modern role-based school management platform designed to streamline academic and administrative operations.
+
+### Key Features
+
+* 👨‍💼 Admin Dashboard
+* 👩‍🏫 Teacher Management
+* 👨‍🎓 Student Information System
+* 👨‍👩‍👧 Parent Portal
+* 📊 Student Grading & Ranking
+* 📅 Attendance Management
+* 📄 Report Card Generation
+* 🔐 Secure Authentication
+
+**Technology Stack**
+
+React • Node.js • Express.js • MongoDB
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🛒 Inclusive E-Commerce Platform
+
+A scalable online marketplace connecting customers, vendors, and community delivery services.
+
+### Key Features
+
+* 🛍️ Product Management
+* 🛒 Shopping Cart
+* 📦 Order Tracking
+* 🚚 Delivery Management
+* 💳 Secure Checkout
+* 👤 User Dashboard
+* 📱 Responsive Design
+
+**Technology Stack**
+
+React • Node.js • Express.js • MongoDB
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌐 Personal Portfolio Website
+
+A responsive portfolio website showcasing my technical skills, projects, and software engineering journey.
+
+### Key Features
+
+* 🎨 Modern User Interface
+* 📂 Project Showcase
+* 🛠️ Technical Skills
+* 📞 Contact Section
+* ⚡ Optimized Performance
+* 📱 Mobile-Friendly Design
+
+**Technology Stack**
+
+React • Tailwind CSS
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📚 Currently Learning
+
+| Technology           |    Progress    |
+| -------------------- | :------------: |
+| 🚀 Advanced React    | █████████░ 90% |
+| ⚙️ Node.js & Express | █████████░ 90% |
+| 🍃 MongoDB           | ████████░░ 85% |
+| ☁️ Cloud Computing   | ██████░░░░ 65% |
+| 🏗️ System Design    | ██████░░░░ 65% |
+| 🔐 Cybersecurity     | ███████░░░ 75% |
+
+---
+
+# 💡 Areas of Interest
+
+* 🌐 Full-Stack Web Development
+* 🛡️ Cybersecurity & Risk Management
+* 🔐 Secure Authentication Systems
+* 📊 Enterprise Management Systems
+* 🏫 Education Technology Solutions
+* 🛒 E-Commerce Platforms
+* ⚡ RESTful API Development
+* ☁️ Cloud & Scalable Applications
+
+---
+
+---
+
+
+---
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nadh116&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadh116&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Nadh116&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nadh116&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nadh116&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📡 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Nadh116">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="mailto:nadhijemal503@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+</div>
+
+---
+
+# 🌐 Portfolio
+
+<div align="center">
+
+### 🚀 Visit My Portfolio
+
+**https://professional-portfolio-theta-khaki.vercel.app/**
+
+</div>
+
+---
+
+# 💼 Professional Summary
+
+```text
+Name        : Nadhii Jemal
+Role        : Full Stack Developer
+Education   : B.Sc. Software Engineering
+University  : Haramaya University
+Location    : Ethiopia 🇪🇹
+
+Specialties
+------------
+✔ MERN Stack Development
+✔ REST API Development
+✔ Database Design
+✔ Cybersecurity Risk Analysis
+✔ Responsive Web Applications
+✔ Clean & Maintainable Code
+
+Current Goal
+------------
+Building secure, scalable, and impactful software solutions
+while continuously learning modern software engineering practices.
+```
+
+---
+
+# 💬 Favorite Quote
+
+<div align="center">
+
+> **"Great software is built with curiosity, consistency, and a commitment to continuous improvement."**
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+If you enjoy my work or find my projects helpful, consider giving them a ⭐.
+
+**Happy Coding! 🚀**
+
+</div>
